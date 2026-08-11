@@ -1,0 +1,16 @@
+
+{
+  "name": "농산물 경매시세",
+  "short_name": "경매시세",
+  "description": "전국 농수산물 도매시장 경매 결과 조회",
+  "lang": "ko-KR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen"],
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#064e3b",
+  "icons": [{"src":"/app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
+

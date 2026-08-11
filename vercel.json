@@ -1,0 +1,7 @@
+{
+  "framework": "vite",
+  "functions": {
+    "api/categories.js": { "maxDuration": 60 },
+    "api/trades.js": { "maxDuration": 60 }
+  }
+}
